@@ -1,0 +1,103 @@
+{
+    "clothes": [
+        {
+            "url": "/image/cloth-one.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "2147",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "white",
+            "sold-outes": "L,XL,S",           
+            "id": "1"
+        },
+        {
+            "url": "/image/cloth-two.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "1670",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "black",
+            "sold-outes": "L,M",            
+            "id": "2"
+        },
+        {
+            "url": "/image/cloth-three.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "850",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "yellow",
+            "sold-outes": "XXL",            
+            "id": "3"
+        },
+        {
+            "url": "/image/cloth-four.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "1250",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "bodily",
+            "sold-outes": "",            
+             "id": "4" 
+        },
+        {
+            "url": "/image/cloth-five.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "1900",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "yellow",
+            "sold-outes": "",            
+            "id": "5"
+        },
+        {
+            "url": "/image/cloth-six.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "1300",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "black",
+            "sold-outes": "L,,M",            
+            "id": "6"
+        },
+        {
+            "url": "/image/cloth-seven.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "920",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "black",
+            "sold-outes": "XS,S",            
+            "id": "7"
+        },
+        {
+            "url": "/image/cloth-eight.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "600",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "yellow",
+            "sold-outes": "L,S",            
+            "id": "8"
+        },
+        {
+            "url": "/image/cloth-nine.png",
+            "name": "CAPSULE COUCH",
+            "minides": "Lorem ipsum dolor sit amet",
+            "price": "600",
+            "isLiked": "false",
+            "quantity": "1",
+            "color": "black",
+            "sold-outes": "XL",            
+            "id": "9"
+        }
+    ]
+}
